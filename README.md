@@ -48,6 +48,7 @@ Skills: REACT JS, HTML, CSS, JavaScript, Node JS, Express JS, MongoDB, Firebase
 
 ⚡ My hobby is listening to music, watching movies, traveling, playing football 
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coders-sohan&layout=compact)
 
 ## ☕ Connect with me!
