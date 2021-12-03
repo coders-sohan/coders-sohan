@@ -44,6 +44,9 @@ Skills: REACT JS, HTML, CSS, JavaScript, Node JS, Express JS, MongoDB, Firebase
 ✅ HTML5 / CSS3 / Tailwind CSS / Bootstrap / Material UI <br>
 ✅ Adobe XD / Figma <br>
 
+🌱 I’m currently learning Advance ES6, Advance React JS, Next JS 
+⚡ My hobby is listening to music, watching movies, traveling, playing football 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coders-sohan&layout=compact)
 
 ## ☕ Connect with me!
