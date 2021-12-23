@@ -1,5 +1,5 @@
 <!--
-## Hi there 👋, I'm Md. Mofizul Islam
+## Hi there 👋, I'm Md. Mofizul Islam (Sohan)
 #### I am a front-end web developer
 ![I am a front-end web developer](https://media-exp1.licdn.com/dms/image/C4E16AQHcVNZjfpbfZA/profile-displaybackgroundimage-shrink_200_800/0/1638113116838?e=1643846400&v=beta&t=D9Mkb3rgN1Zzdc8JO-qqqN1KFLzZ523nNtlKhd3EGKg)
 
