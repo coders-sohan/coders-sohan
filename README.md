@@ -25,7 +25,7 @@ Skills: REACT JS, HTML, CSS, JavaScript, Node JS, Express JS, MongoDB, Firebase
 -->
 
 
-![I am Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHcVNZjfpbfZA/profile-displaybackgroundimage-shrink_200_800/0/1638113116838?e=1643846400&v=beta&t=D9Mkb3rgN1Zzdc8JO-qqqN1KFLzZ523nNtlKhd3EGKg)
+![I am Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHcVNZjfpbfZA/profile-displaybackgroundimage-shrink_350_1400/0/1638113116838?e=2147483647&v=beta&t=08rfh7Gkf-Mabi5v2MjEg2L5Hr0sxHthTRXaYo_rtO8)
 ## Hi, I'm Md Mofizul Islam (Sohan) 👋
 <p>
 👑 I am front-end web developer <br> 
